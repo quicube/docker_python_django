@@ -1,0 +1,1 @@
+SET TIMEZOME TO 'Asia/Tokyo';
